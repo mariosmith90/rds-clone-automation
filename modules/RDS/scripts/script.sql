@@ -1,0 +1,2 @@
+GRANT ALTER, CREATE, SELECT, INSERT, DELETE, DROP, INDEX, UPDATE ON sotg_www.*
+TO 'ssl_aashraghi', 'ssl_cmonahan', 'ssl_cnguyen', 'ssl_dostrowski', 'ssl_jardis', 'ssl_jhuang', 'ssl_jnguyen', 'ssl_khensley', 'ssl_okozlov', 'ssl_pwattamwar', 'ssl_rbalakin', 'ssl_rtsu', 'ssl_yevhen', 'testautomation', 'ssl_kihm', 'ssl_hprieto', 'ssl_snampalli', 'rbeacham', 'ssl_jong', 'ssl_twilliams', 'ssl_borahilly', 'ssl_nsaikali', 'ssl_msmith'
